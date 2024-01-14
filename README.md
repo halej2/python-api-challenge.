@@ -14,4 +14,4 @@ In this project I was tasked to:
 7. For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates and add the hotel name and the country as additional information in the hover message for each city on the map.
   
 
-
+- Code in Starter Code folder
